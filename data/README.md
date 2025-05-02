@@ -1,12 +1,12 @@
 # 7T SC qMRI Data
 
-This repository will host a representative dataset acquired using the **7T Spinal Cord Quantitative MRI (7T SC qMRI)** project (page?), developed through a collaboration between **[CRMBM (Marseille, France)](https://crmbm.univ-amu.fr/topic/spinal-cord-imaging/)** and the **[Balgrist Spinal Cord Injury Centre (Zurich, Switzerland)](https://www.balgrist.ch/en/offer/centers/spinal-cord-injury-center/)**.
+This repository will host a representative dataset acquired using the **7T Spinal Cord Quantitative MRI (7T SC qMRI)** project, developed through a collaboration between **[CRMBM (Marseille, France)](https://crmbm.univ-amu.fr/topic/spinal-cord-imaging/)** and the **[Balgrist Spinal Cord Injury Centre (Zurich, Switzerland)](https://www.balgrist.ch/en/offer/centers/spinal-cord-injury-center/)**.
 
 ---
 
 ## Description
 
-🧠 This dataset is intended to serve as an **example for researchers and developers** working on spinal cord image processing, modeling, or quality control at ultra-high field strength (7 Tesla).  
+This dataset is intended to serve as an **example for researchers** working on spinal cord image processing, modeling, or quality control at ultra-high field strength (7 Tesla).  
 
 ---
 
@@ -14,7 +14,7 @@ This repository will host a representative dataset acquired using the **7T Spina
 
 > 📦 **The dataset will include :**
 - Structural images (e.g., MP2RAGE, T2*-weighted, DTI) on BIDS formalism. 
-- Quantitative maps (T1, CSA, diffusion metrics)
+- Quantitative maps (T1map), CSA and diffusion metrics.
 - Metadata and acquisition parameters
 
 ---
@@ -24,12 +24,5 @@ This repository will host a representative dataset acquired using the **7T Spina
 > 🚧 **Coming soon**
 
 The dataset is currently being curated and will be released shortly.
-
----
-
-## Related Projects
-
-- 📄 [7T-SC-qMRI-protocol](https://github.com/crmbm-spinalcord/7T-SC-qMRI-protocol) – MRI protocol and SOP  
-- 💻 [7T-SC-qMRI-code](https://github.com/crmbm-spinalcord/7T-SC-qMRI-code) – Code used for processing, analysis, and visualization of qMRI data  
 
 ---
