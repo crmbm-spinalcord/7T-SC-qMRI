@@ -8,8 +8,8 @@ This repository contains the official MRI protocol used for the **7T Spinal Cord
 
 ## Contents
 
-- 🧲 MR protocol for 7T spinal cord qMRI
-- 🧠 MP2RAGE sequence and B1 map for **unbiased T1 mapping**
+- 🧲 MR protocol to start 7T spinal cord qMRI
+- 𖠣 MP2RAGE sequence and B1 map for **unbiased T1 mapping**
 - 💫 T2*-weighted sequence for **Cross-Sectional Area** measurement
 - 💧 Diffusion Tensor Imaging (DTI) for **diffusion metrics** evaluation
 - 📘 Standard Operating Procedure (SOP) with detailed guidelines, tips, and recommendations
@@ -59,12 +59,3 @@ If you use this protocol, please cite the following works:
 }
 
 ```
-
----
-
-## Related Projects
-
-- 📦 [7T-SC-qMRI-data](https://github.com/crmbm-spinalcord/7T-SC-qMRI-data) – Representative dataset for testing and development
-- 💻 [7T-SC-qMRI-code](https://github.com/crmbm-spinalcord/7T-SC-qMRI-code) – Code used for processing, analysis, and visualization of qMRI data  
-
----
