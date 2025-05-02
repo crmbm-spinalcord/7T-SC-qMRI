@@ -2,7 +2,7 @@
 
 **Standard Operating Procedure and MRI Protocol for Cervical Spinal Cord Imaging at 7T**
 
-This repository contains the official MRI protocol used for the **7T Spinal Cord Quantitative MRI (7T SC qMRI)** project (page?), developed through a collaboration between **[CRMBM (Marseille, France)](https://crmbm.univ-amu.fr/topic/spinal-cord-imaging/)** and the **[Balgrist Spinal Cord Injury Centre (Zurich, Switzerland)](https://www.balgrist.ch/en/offer/centers/spinal-cord-injury-center/)**.
+This repository contains the official MRI protocol used for the **7T Spinal Cord Quantitative MRI (7T SC qMRI)** project, developed through a collaboration between **[CRMBM (Marseille, France)](https://crmbm.univ-amu.fr/topic/spinal-cord-imaging/)** and the **[Balgrist Spinal Cord Injury Centre (Zurich, Switzerland)](https://www.balgrist.ch/en/offer/centers/spinal-cord-injury-center/)**.
 
 ---
 
