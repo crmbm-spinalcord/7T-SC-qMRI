@@ -65,6 +65,6 @@ If you use this protocol, please cite the following works:
 ## Related Projects
 
 - 📄 [7T-SC-qMRI-data](https://github.com/crmbm-spinalcord/7T-SC-qMRI-data) – Representative dataset for testing and development
-- 💻 [7T-SC-qMRI-code](https://github.com/crmbm-spinalcord/7T-SC-qMRI-code) – Code used for processing, analysis, and visualization of qMRI data  
+- 📦 [7T-SC-qMRI-code](https://github.com/crmbm-spinalcord/7T-SC-qMRI-code) – Code used for processing, analysis, and visualization of qMRI data  
 
 ---
